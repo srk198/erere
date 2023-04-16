@@ -1,4 +1,5 @@
 # CoreLoggingTests
+this branch is about learning abvout learning branch
 
 Support files for the blog post : [Logging in a .Net Core Library](https://xfischer.github.io/logging-dotnet-core/)
 
